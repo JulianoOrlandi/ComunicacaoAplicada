@@ -1,0 +1,265 @@
+.quote {
+    font-family: "Kite One";
+    font-size: 140%;
+    font-style: italic;
+    text-align: center;
+    color: #871668;
+}
+
+.f {
+  font-family: "Kite One";
+  font-size: 16px;
+  text-align: center;
+  color: #871668;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.centered {
+  font-size: 40px;
+  font-family: "Kite One";
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+.menu {
+
+    filter: contrast(60%) brightness(40%);
+    width: 100%;
+    object-fit: cover;
+    height: 400px;
+    margin: 0;
+}
+
+.menu1 {
+  filter: sepia(50%) contrast(100%) saturate(200%) brightness(35%);
+  width: 100%;
+  object-fit: cover;
+  height: 400px;
+  margin: 0;
+}
+
+.menu2 {
+  filter: sepia(50%) contrast(100%) saturate(200%) brightness(55%);
+  width: 50%;
+  object-fit: cover;
+  height: 400px;
+  position: relative;
+  top: 80px;
+  left: 600px;
+}
+
+.menu3 {
+  width: 25%;
+  object-fit: cover;
+  height: 25%;
+  position: relative;
+  top: 50px;
+  left: 600px;
+}
+
+.menu4 {
+  width: 120px;
+  object-fit: cover;
+  height: 120px;
+  position: relative;
+  top: -250px;
+  left: 950px;
+}
+
+.menu5 {
+  width: 180px;
+  object-fit: cover;
+  height: 180px;
+  position: relative;
+  top: -200px;
+  left: 1000px;
+}
+
+.menu6 {
+  width: 10%;
+  object-fit: cover;
+  height: 10%;
+  position: relative;
+  top: -120px;
+  left: 8%;
+}
+
+.menu7 {
+  width: 35%;
+  object-fit: cover;
+  height: 35%;
+  position: relative;
+  top: -300px;
+  left: 800px;
+}
+
+.menu8 {
+  width: 35%;
+  object-fit: cover;
+  height: 35%;
+  position: relative;
+  top: 75px;
+  left: 5%;
+}
+
+.menu9 {
+  width: 10%;
+  object-fit: cover;
+  height: 10%;
+  position: relative;
+  top: -25px;
+  left: 50%;
+}
+
+.menu10 {
+  width: 10%;
+  object-fit: cover;
+  height: 10%;
+  position: relative;
+  top: -145px;
+  left: 75%;
+}
+
+a {
+  color: #871668;
+  font-size: 12px;
+  font-family: "Kite One";
+
+}
+
+.a1 {
+  color: white;
+  font-size: 12px;
+  font-family: "Kite One";
+
+}
+
+.a2 {
+  color: #871668;
+  font-size: 12px;
+  font-family: "Kite One";
+
+}
+
+.texto1 {
+  color: #871668;
+  font-size: 18px;
+  font-family: "Kite One";
+  margin-top: -335px;
+  margin-right: 775px;
+  margin-bottom: 0%;
+  margin-left: 8%;
+  line-height: 26pt;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.texto2 {
+  color: #871668;
+  font-size: 18px;
+  font-family: "Kite One";
+  margin-top: 5%;
+  margin-left: 0%;
+  margin-right: 15%;
+  line-height: 26pt;
+}
+
+.texto3 {
+  color: #871668;
+  font-size: 18px;
+  font-family: "Kite One";
+  margin-top: 5%;
+  margin-left: 15%;
+  margin-right: 15%;
+  line-height: 26pt;
+}
+
+.texto4 {
+  color: #871668;
+  font-size: 18px;
+  font-family: "Kite One";
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-bottom: 3%;
+  line-height: 26pt;
+}
+
+.texto5 {
+  color: #871668;
+  font-size: 18px;
+  font-family: "Kite One";
+  margin-top: -150px;
+  margin-right: 775px;
+  margin-bottom: 0%;
+  margin-left: 8%;
+  line-height: 26pt;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.texto6 {
+  color: #871668;
+  font-size: 18px;
+  font-family: "Kite One";
+  margin-top: -100px;
+  margin-right: 8%;
+  margin-bottom: 0%;
+  margin-left: 25%;
+  line-height: 26pt;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.texto7 {
+  color: #871668;
+  font-size: 18px;
+  font-family: "Kite One";
+  margin-top: -50px;
+  margin-right: 600px;
+  margin-bottom: 0%;
+  margin-left: 8%;
+  line-height: 26pt;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.texto8 {
+  color: #871668;
+  font-size: 18px;
+  font-family: "Kite One";
+  margin-top: 50px;
+  margin-right: 8%;
+  margin-bottom: 0%;
+  margin-left: 8%;
+  line-height: 26pt;
+  text-align: center;
+  text-justify: inter-word;
+}
+
+.bar
+{
+    background-color: #505050;
+    height: 30px;
+    margin-left: -10px;
+    margin-right: -8px;
+}
+.table1
+{
+    text-align: center;
+    padding: 3px 0;
+    width: 100%;
+}
+.td1
+{
+  text-align: center;
+
+  width: 15%;
+}
